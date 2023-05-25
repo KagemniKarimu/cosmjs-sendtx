@@ -1,4 +1,4 @@
-# cosmos-sendtx
+# cosmjs-sendtx
 
 This is an example project which is used in the tutorial entitled "How-to Cosmos Pt. 3- Sending a Signed Tx on Cosmos hub using Cosmjs"
 
